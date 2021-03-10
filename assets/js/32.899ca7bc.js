@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{513:function(t,e,s){"use strict";s.r(e);var n=s(4),u=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("在阅读《深入浅出Vue.js》一书的过程中做一些关于Vue实现原理的笔记，以更好的理解Vue.js。")])])}),[],!1,null,null,null);e.default=u.exports}}]);
